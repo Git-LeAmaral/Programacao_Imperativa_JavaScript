@@ -56,4 +56,20 @@ console.log(separadosPorTraco);
 cores.lastIndexOf("Amarelo");
 console.log(cores.length);
 
+const filmes = ['star wars', 'matrix', 'mr.robot', 'o preço do amanhã', 'a vida é bela'];
 
+// function letrasMaisculas(filmes){
+//       filmes[0] = filmes[0].toUpperCase();
+//       filmes[1] = filmes[1].toUpperCase();
+//       filmes[2] = filmes[2].toUpperCase();
+//       filmes[3] = filmes[3].toUpperCase();
+//       filmes[4] = filmes[4].toUpperCase();
+
+//       return filmes;
+//     };
+    
+    // console.log(filmesMod);
+
+    //==============================================
+
+    
